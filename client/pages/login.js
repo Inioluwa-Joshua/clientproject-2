@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from "../components/navbar";
 // import { Container } from "../components/globalComp/wrapper";
-import styled from "styled-components";
 
 const login = () => {
   const Container = styled.div`
